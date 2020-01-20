@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Customize your theme here. -->
+    <color name="colorPrimary">#AED581</color>
+    <color name="colorPrimaryDark">#689F38</color>
+    <color name="colorAccent">#33691E</color>
+</resources>
